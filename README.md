@@ -1,2 +1,4 @@
 # test
-testing
+#imnclude<stdio.h>
+void mzin
+{
